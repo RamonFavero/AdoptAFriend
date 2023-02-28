@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/adoptafriend/static/js/main.3b08c1ed.js",
+    "index.html": "/adoptafriend/index.html",
+    "main.3b08c1ed.js.map": "/adoptafriend/static/js/main.3b08c1ed.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3b08c1ed.js"
+  ]
+}

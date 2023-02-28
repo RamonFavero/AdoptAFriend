@@ -1,7 +1,7 @@
 {
   "name": "petshop-app",
   "version": "0.1.0",
-  "homepage": "https://ramonfavero.github.io/adoptafriend/public/index",
+  "homepage": "https://ramonfavero.github.io/adoptafriend",
   "private": true,
   "dependencies": {
     "@auth0/auth0-react": "^1.10.1",
@@ -19,7 +19,7 @@
   "main": "index.js",
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "main -d build",
+    "deploy": "gh-pages -d build",
     "start": "react-scripts --openssl-legacy-provider start",
     "build": "react-scripts --openssl-legacy-provider build",
     "test": "react-scripts test --env=jsdom",
