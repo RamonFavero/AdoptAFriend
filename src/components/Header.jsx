@@ -33,9 +33,7 @@ function Header() {
               </div>
               <div className="divlogin">
               
-              {!isAuthenticated && (
-              <button className="login" onClick={loginWithRedirect} >Login</button>
-              )}
+              
               {isAuthenticated && (
               <button className="logout" onClick={logout} >Logout</button>
               )}

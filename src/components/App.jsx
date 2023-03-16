@@ -3,7 +3,7 @@ import Header from "./Header";
 import Footer from "./Footer";
 import Card, { CardMap} from "./Card";
 import Addcat from "./Addcat";
-import {useAuth0} from "@auth0/auth0-react";
+import '../styles.css';
 
 function createCard(props) {
     return (
