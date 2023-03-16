@@ -1,10 +1,13 @@
 {
   "files": {
-    "main.js": "/adoptafriend/static/js/main.3b08c1ed.js",
+    "main.css": "/adoptafriend/static/css/main.7c935fd8.css",
+    "main.js": "/adoptafriend/static/js/main.835438f9.js",
     "index.html": "/adoptafriend/index.html",
-    "main.3b08c1ed.js.map": "/adoptafriend/static/js/main.3b08c1ed.js.map"
+    "main.7c935fd8.css.map": "/adoptafriend/static/css/main.7c935fd8.css.map",
+    "main.835438f9.js.map": "/adoptafriend/static/js/main.835438f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.3b08c1ed.js"
+    "static/css/main.7c935fd8.css",
+    "static/js/main.835438f9.js"
   ]
 }
